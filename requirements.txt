@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tqdm
+dateparser
+git+https://github.com/imvladikon/abydos.git
+jarowinkler
+rapidfuzz
+igraph
